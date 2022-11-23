@@ -63,10 +63,11 @@
 - Contoh program nya adalah sebagai berikut :
 
 ![img.10](Screenshot/10.png)
+![img.11](Screenshot/9.png)
 
 - Hasil dari program yang sudah dijalankan :
 
-![img.11](Screenshot/11.png)
+![img.12](Screenshot/11.png)
 
 - Flowchart dari program yang sudah dijalankan :
-![img.12](Screenshot/12.png)
+![img.13](Screenshot/12.png)
